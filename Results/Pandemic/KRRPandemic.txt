@@ -1,0 +1,87 @@
+Mean values for metrics and Kernel Ridge Regression with a window of 10
+F1           0.870
+Precision    0.880
+Accuracy     0.864
+MAE          2.894
+MAPE         0.039
+MSE         15.666
+RMSE         3.566
+dtype: float64
+
+Max values for metrics and Kernel Ridge Regression with a window of 10
+F1           0.972
+Precision    0.981
+Accuracy     0.971
+MAE          6.379
+MAPE         0.112
+MSE         60.633
+RMSE         7.787
+dtype: float64
+
+Min values for metrics and Kernel Ridge Regression with a window of 10
+F1          0.757
+Precision   0.750
+Accuracy    0.738
+MAE         0.796
+MAPE        0.009
+MSE         0.974
+RMSE        0.987
+dtype: float64
+Mean values for metrics and Kernel Ridge Regression with a window of 20
+F1           0.781
+Precision    0.793
+Accuracy     0.777
+MAE          4.499
+MAPE         0.061
+MSE         40.719
+RMSE         5.506
+dtype: float64
+
+Max values for metrics and Kernel Ridge Regression with a window of 20
+F1            0.960
+Precision     0.980
+Accuracy      0.956
+MAE          10.611
+MAPE          0.169
+MSE         197.345
+RMSE         14.048
+dtype: float64
+
+Min values for metrics and Kernel Ridge Regression with a window of 20
+F1          0.633
+Precision   0.574
+Accuracy    0.604
+MAE         1.326
+MAPE        0.015
+MSE         2.733
+RMSE        1.653
+dtype: float64
+Mean values for metrics and Kernel Ridge Regression with a window of 30
+F1           0.735
+Precision    0.742
+Accuracy     0.729
+MAE          5.885
+MAPE         0.080
+MSE         66.114
+RMSE         7.038
+dtype: float64
+
+Max values for metrics and Kernel Ridge Regression with a window of 30
+F1            0.921
+Precision     0.911
+Accuracy      0.910
+MAE          16.059
+MAPE          0.191
+MSE         277.030
+RMSE         16.644
+dtype: float64
+
+Min values for metrics and Kernel Ridge Regression with a window of 30
+F1          0.444
+Precision   0.421
+Accuracy    0.487
+MAE         1.813
+MAPE        0.020
+MSE         4.729
+RMSE        2.175
+dtype: float64

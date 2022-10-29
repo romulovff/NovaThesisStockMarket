@@ -1,0 +1,87 @@
+Mean values for metrics and Random Forest with a window of 10
+F1            0.730
+Precision     0.643
+Accuracy      0.662
+MAE          11.763
+MAPE          0.151
+MSE         231.476
+RMSE         13.866
+dtype: float64
+
+Max values for metrics and Random Forest with a window of 10
+F1            0.862
+Precision     0.815
+Accuracy      0.835
+MAE          24.770
+MAPE          0.403
+MSE         794.622
+RMSE         28.189
+dtype: float64
+
+Min values for metrics and Random Forest with a window of 10
+F1           0.571
+Precision    0.465
+Accuracy     0.417
+MAE          5.201
+MAPE         0.058
+MSE         37.567
+RMSE         6.129
+dtype: float64
+Mean values for metrics and Random Forest with a window of 20
+F1            0.681
+Precision     0.597
+Accuracy      0.614
+MAE          12.229
+MAPE          0.161
+MSE         236.471
+RMSE         14.341
+dtype: float64
+
+Max values for metrics and Random Forest with a window of 20
+F1            0.826
+Precision     0.780
+Accuracy      0.791
+MAE          22.679
+MAPE          0.392
+MSE         613.164
+RMSE         24.762
+dtype: float64
+
+Min values for metrics and Random Forest with a window of 20
+F1           0.330
+Precision    0.302
+Accuracy     0.286
+MAE          4.579
+MAPE         0.052
+MSE         39.578
+RMSE         6.291
+dtype: float64
+Mean values for metrics and Random Forest with a window of 30
+F1            0.641
+Precision     0.556
+Accuracy      0.554
+MAE          11.229
+MAPE          0.149
+MSE         200.859
+RMSE         13.190
+dtype: float64
+
+Max values for metrics and Random Forest with a window of 30
+F1            0.780
+Precision     0.700
+Accuracy      0.705
+MAE          24.282
+MAPE          0.292
+MSE         651.183
+RMSE         25.518
+dtype: float64
+
+Min values for metrics and Random Forest with a window of 30
+F1           0.366
+Precision    0.298
+Accuracy     0.244
+MAE          4.666
+MAPE         0.058
+MSE         39.635
+RMSE         6.296
+dtype: float64

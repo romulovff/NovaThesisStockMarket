@@ -1,0 +1,87 @@
+Mean values for metrics and XGBoost with a window of 10
+F1            0.737
+Precision     0.619
+Accuracy      0.652
+MAE          14.768
+MAPE          0.190
+MSE         331.308
+RMSE         16.821
+dtype: float64
+
+Max values for metrics and XGBoost with a window of 10
+F1            0.824
+Precision     0.716
+Accuracy      0.738
+MAE          27.152
+MAPE          0.453
+MSE         876.008
+RMSE         29.597
+dtype: float64
+
+Min values for metrics and XGBoost with a window of 10
+F1           0.646
+Precision    0.500
+Accuracy     0.553
+MAE          4.438
+MAPE         0.058
+MSE         34.839
+RMSE         5.902
+dtype: float64
+Mean values for metrics and XGBoost with a window of 20
+F1            0.687
+Precision     0.562
+Accuracy      0.580
+MAE          14.915
+MAPE          0.194
+MSE         340.841
+RMSE         17.240
+dtype: float64
+
+Max values for metrics and XGBoost with a window of 20
+F1            0.816
+Precision     0.690
+Accuracy      0.736
+MAE          28.954
+MAPE          0.420
+MSE         897.837
+RMSE         29.964
+dtype: float64
+
+Min values for metrics and XGBoost with a window of 20
+F1           0.554
+Precision    0.431
+Accuracy     0.451
+MAE          5.590
+MAPE         0.078
+MSE         49.291
+RMSE         7.021
+dtype: float64
+Mean values for metrics and XGBoost with a window of 30
+F1            0.663
+Precision     0.545
+Accuracy      0.545
+MAE          13.345
+MAPE          0.177
+MSE         272.741
+RMSE         15.380
+dtype: float64
+
+Max values for metrics and XGBoost with a window of 30
+F1            0.848
+Precision     0.764
+Accuracy      0.808
+MAE          27.794
+MAPE          0.344
+MSE         834.978
+RMSE         28.896
+dtype: float64
+
+Min values for metrics and XGBoost with a window of 30
+F1           0.495
+Precision    0.381
+Accuracy     0.372
+MAE          4.336
+MAPE         0.056
+MSE         29.370
+RMSE         5.419
+dtype: float64
